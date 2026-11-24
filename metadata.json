@@ -1,0 +1,6 @@
+{
+  "name": "Lumina Hall",
+  "description": "Immersive dark training room projection screen interface for watching educational video tutorials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
